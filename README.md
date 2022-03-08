@@ -9,8 +9,11 @@
 
 <h1>1. Bussiness Problem</h1>
 <p>Eduardo and Marcelo need awser for this questions.</p>
+
 > *What is the best selling price for the jeans pants?*
+> 
 > *How many types of pants and their cores for the initial product?*
+> 
 > *What raw material is needed to make these pieces?*
 
 <p><strong>What is a Retail?</strong></p>
