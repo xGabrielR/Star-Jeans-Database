@@ -30,9 +30,11 @@
   <li>This Average will be available in a web application.</li>
 </ul>
 
+<p>Steps to Improve:</p>
 <ul>
   <li>Need more Days to collect for better plots.</li>
   <li>Need Pagination products (Only 36 Daily Web Scraping).</li>
+  <li>Add product name (The Produt Name is Just fit column, but withou 'Fit', Eg: 'slim_fit' => 'slim_jeans' in website)</li>
 </ul>
 
 https://user-images.githubusercontent.com/75986085/157317839-18a0ef63-cf6b-40e4-9d2a-4b72dfa25870.mp4
