@@ -29,9 +29,6 @@
   <li>A database with the Median of competitors' prices by type and color in the next 30 days.</li>
   <li>This Average will be available in a web application.</li>
 </ul>
-
-
+<p>Need more daily Web Scraping fot betther plots;</p>
 
 https://user-images.githubusercontent.com/75986085/157316942-d2fcead9-3261-4e42-89d4-d50ebb166e69.mp4
-
-<h1></h1>
