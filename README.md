@@ -9,11 +9,9 @@
 
 <h1>1. Bussiness Problem</h1>
 <p>Eduardo and Marcelo need awser for this questions.</p>
-<ul>
-  <li> What is the best selling price for the jeans pants? </li>
-  <li> How many types of pants and their cores for the initial product? </li>
-  <li> What raw material is needed to make these pieces? </li>
-</ul>
+> *What is the best selling price for the jeans pants?*
+> *How many types of pants and their cores for the initial product?*
+> *What raw material is needed to make these pieces?*
 
 <p><strong>What is a Retail?</strong></p>
 <p>It is a type of business model where the product is sold directly to the consumer, for example a market, it is a Retail, where it sells products according to demand and in small quantities directly to the consumer, where the money comes mainly from the quality of the service. face-to-face customer service, product exhibition, infrastructure quality, among others.</p>
@@ -30,3 +28,7 @@
 </ul>
 
 
+
+https://user-images.githubusercontent.com/75986085/157316942-d2fcead9-3261-4e42-89d4-d50ebb166e69.mp4
+
+<h1></h1>
