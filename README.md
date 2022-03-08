@@ -4,10 +4,10 @@
 
 <a href='https://github.com/xGabrielR/Star-Jeans-Database/blob/main/notebooks/h%26m_web_scrapping.ipynb'>Full Documentation PT-BR</a>
 
-<h1>0. Star Jeans</h1>
+<h2>0. Star Jeans</h2>
 <p>Star Jeans is a fictional company that was used as a case study, where two entrepreneurs named Eduardo and Marcelo are Brazilians and entrepreneurial friends who are starting in the US fashion retail area after several successful businesses. The initial idea is to enter the market with a specific product, which is jeans for the male audience, but even with the well-defined audience, they do not have experience in the fashion retail market, so they hired a data consultancy to answer some questions..</p>
 
-<h1>1. Bussiness Problem</h1>
+<h2>1. Bussiness Problem</h2>
 <p>Eduardo and Marcelo need awser for this questions.</p>
 
 > *What is the best selling price for the jeans pants?*
@@ -24,7 +24,7 @@
 
 ![market_funnel](https://user-images.githubusercontent.com/75986085/157315368-8861c694-4634-4312-b079-f9489cb28130.jpg)
 
-<h1>1. Solution Strategy</h1>
+<h2>1. Solution Strategy</h2>
 <ul>
   <li>A database with the Median of competitors' prices by type and color in the next 30 days.</li>
   <li>This Average will be available in a web application.</li>
