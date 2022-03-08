@@ -2,4 +2,31 @@
 
 ![star](https://user-images.githubusercontent.com/75986085/157313911-2b5306f4-4ab2-4542-b755-7bb655baa186.png)
 
-Third Data Engineering Project
+<a href='https://github.com/xGabrielR/Star-Jeans-Database/blob/main/notebooks/h%26m_web_scrapping.ipynb'>Full Documentation PT-BR</a>
+
+<h1>0. Star Jeans</h1>
+<p>Star Jeans is a fictional company that was used as a case study, where two entrepreneurs named Eduardo and Marcelo are Brazilians and entrepreneurial friends who are starting in the US fashion retail area after several successful businesses. The initial idea is to enter the market with a specific product, which is jeans for the male audience, but even with the well-defined audience, they do not have experience in the fashion retail market, so they hired a data consultancy to answer some questions..</p>
+
+<h1>1. Bussiness Problem</h1>
+<p>Eduardo and Marcelo need awser for this questions.</p>
+<ul>
+  <li> What is the best selling price for the jeans pants? </li>
+  <li> How many types of pants and their cores for the initial product? </li>
+  <li> What raw material is needed to make these pieces? </li>
+</ul>
+
+<p><strong>What is a Retail?</strong></p>
+<p>It is a type of business model where the product is sold directly to the consumer, for example a market, it is a Retail, where it sells products according to demand and in small quantities directly to the consumer, where the money comes mainly from the quality of the service. face-to-face customer service, product exhibition, infrastructure quality, among others.</p>
+
+<p><strong>What is an E-Commerce?</strong></p>
+<p>It's a business model similar to retail, let's say, where I have a website that sells products online, in this style of business model, the consumer enters a funneling process, when the consumer knows the brand, registers on the site, order and purchase by becoming a customer. In this process, there are no employees or the infrastructure of the physical store does not exist, as sales are made automatically on the Website. Therefore, it is necessary to have a good website, with colors that match the brand, quality of online service, or in other words, the money comes with the experience and the purchase process.</p>
+
+![market_funnel](https://user-images.githubusercontent.com/75986085/157315368-8861c694-4634-4312-b079-f9489cb28130.jpg)
+
+<h1>1. Solution Strategy</h1>
+<ul>
+  <li>A database with the Median of competitors' prices by type and color in the next 30 days.</li>
+  <li>This Average will be available in a web application.</li>
+</ul>
+
+
