@@ -1,0 +1,2 @@
+2022-03-08 11:17:14 - INFO - WebScrapingH&M - [OK] Data Collected & Stored, check Database.
+2022-03-08 11:28:43 - INFO - WebScrapingH&M - [OK] Data Collected & Stored, check Database.
