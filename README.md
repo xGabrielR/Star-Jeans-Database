@@ -37,6 +37,8 @@
   <li>Add product name (The Produt Name is Just fit column, but withou 'Fit', Eg: 'slim_fit' => 'slim_jeans' in website)</li>
 </ul>
 
+https://user-images.githubusercontent.com/75986085/157462075-529328d1-3b43-4378-9164-47d94e33f5bc.mp4
+
 <p>Second Deployment is a executable app :)</p>
 
 ![img_app](https://user-images.githubusercontent.com/75986085/157460350-7a2ddd17-0428-4c33-950e-8dc4476b1a9d.png)
