@@ -38,3 +38,8 @@
 </ul>
 
 https://user-images.githubusercontent.com/75986085/157317839-18a0ef63-cf6b-40e4-9d2a-4b72dfa25870.mp4
+
+<p>Second Deployment is a executable app :)</p>
+
+![img_app](https://user-images.githubusercontent.com/75986085/157460350-7a2ddd17-0428-4c33-950e-8dc4476b1a9d.png)
+
