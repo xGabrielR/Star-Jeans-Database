@@ -1,8 +1,10 @@
+import requests
 import numpy as np
 import pandas as pd
+from url import url
 import PySimpleGUI as sg
 from plots import PlotsHm
-from sqlalchemy import create_engine
+# from sqlalchemy import create_engine
 
 class HMApp():
     '''
@@ -14,8 +16,11 @@ class HMApp():
     - geral_window: First Window.
     '''
     def __init__( self ):
-        self.con = create_engine( 'sqlite:///../script/h&m_datasets/h&m_database.sqlite' )
-        self.df  = pd.read_sql_query( 'SELECT * FROM showroom', con=self.con )
+        # You can use a Local Data
+        # self.con = create_engine( 'sqlite:///../script/h&m_datasets/h&m_database.sqlite' )
+        # self.df  = pd.read_sql_query( 'SELECT * FROM showroom', con=self.con )
+        self.r = requests.get( f'{cloud_url}', headers={'Content-type': 'application/json'} )
+        self.df = pd.DataFrame( r.json(), columns=r.json()[0].keys() )
 
     def prepare_dataset( self ):
         num_att = self.df.select_dtypes( include=['float64', 'int64'] )
