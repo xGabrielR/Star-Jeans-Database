@@ -2,7 +2,7 @@
 
 ![star](https://user-images.githubusercontent.com/75986085/157313911-2b5306f4-4ab2-4542-b755-7bb655baa186.png)
 
-<a href='https://github.com/xGabrielR/Star-Jeans-Database/blob/main/notebooks/h%26m_web_scrapping.ipynb'>Full Documentation PT-BR</a>
+<a href='https://github.com/xGabrielR/Star-Jeans-Database/blob/main/notebooks/h%26m_webscraping.ipynb'>Full Documentation PT-BR</a>
 
 <h2>0. Star Jeans</h2>
 <p>Star Jeans is a fictional company that was used as a case study, where two entrepreneurs named Eduardo and Marcelo are Brazilians and entrepreneurial friends who are starting in the US fashion retail area after several successful businesses. The initial idea is to enter the market with a specific product, which is jeans for the male audience, but even with the well-defined audience, they do not have experience in the fashion retail market, so they hired a data consultancy to answer some questions..</p>
