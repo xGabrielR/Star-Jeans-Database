@@ -30,6 +30,15 @@
   <li>This Average will be available in a web application.</li>
 </ul>
 
+<p>Solution Steps</p>
+<ol>
+  <li>Complete WebScraping of H&M Jeans Website.</li>
+  <li>Storing Daily data on Heroku Clound.</li>
+  <li>Usind a API to Feed Data from Heroku on Two Apps.</li>
+  <li>Streamlit is a Web Based Plataform for Web Apps.</li>
+  <li>Executable TKinter App.</li>
+</ol>
+
 <p>Steps to Improve:</p>
 <ul>
   <li>Need more Days to collect for better plots.</li>
