@@ -20,7 +20,7 @@ class HMApp():
         # self.con = create_engine( 'sqlite:///../script/h&m_datasets/h&m_database.sqlite' )
         # self.df  = pd.read_sql_query( 'SELECT * FROM showroom', con=self.con )
         self.r = requests.get( f'{cloud_url}', headers={'Content-type': 'application/json'} )
-        self.df = pd.DataFrame( r.json(), columns=r.json()[0].keys() )
+        self.df = pd.DataFrame( self.r.json(), columns=self.r.json()[0].keys() )
 
     def prepare_dataset( self ):
         num_att = self.df.select_dtypes( include=['float64', 'int64'] )
