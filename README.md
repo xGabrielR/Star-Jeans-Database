@@ -4,10 +4,22 @@
 
 <a href='https://github.com/xGabrielR/Star-Jeans-Database/blob/main/notebooks/h%26m_webscraping.ipynb'>Full Documentation PT-BR</a>
 
+<h2>Summary</h2>
+<hr>
 
+- [0. Star Jeans](#0-star-jeans)
+- [1. Bussiness Problem](#1-bussiness-problem)
+- [2. Solution Strategy and Results](#2-solution-strategy-and-results)
+  - [2.1. First Solution Steps](#21-first-solution-steps)
+  - [2.2. Steps to Improve](#22-steps-to-improve)
+- [3. Solution Deployment](#3-solution-deployment)
 
-<h2>0. Star Jeans</h2>
-<p>Star Jeans is a fictional company that was used as a case study, where two entrepreneurs named Eduardo and Marcelo are Brazilians and entrepreneurial friends who are starting in the US fashion retail area after several successful businesses. The initial idea is to enter the market with a specific product, which is jeans for the male audience, but even with the well-defined audience, they do not have experience in the fashion retail market, so they hired a data consultancy to answer some questions..</p>
+---
+
+<h2>0. Star Jeans Bussiness Problem</h2>
+<hr>
+
+<p>Star Jeans is a fictional company that was used as a case study, where two entrepreneurs named Eduardo and Marcelo are Brazilians and entrepreneurial friends who are starting in the US fashion retail area after several successful businesses. The initial idea is to enter the market with a specific product, which is jeans for the male audience, but even with the well-defined audience, they do not have experience in the fashion retail market, so they hired a data consultancy to answer some questions...</p>
 
 <h2>1. Bussiness Problem</h2>
 <p>Eduardo and Marcelo need awser for this questions.</p>
@@ -28,6 +40,8 @@
 ![market_funnel](https://user-images.githubusercontent.com/75986085/157315368-8861c694-4634-4312-b079-f9489cb28130.jpg)
 
 <h2>2. Solution Strategy and Results</h2>
+<hr>
+
 <ul>
   <li>A database with some data to feed in a dashboard or app by type and color in the next 30 days.</li>
   <li>This dataset will feed a executable app and a product dashboard with some metrics.</li>
@@ -44,16 +58,21 @@
   <li>Executable TKinter App in windows or linux S.O.</li>
 </ol>
 
-<h3>2.2. Steps to Improve:</h3>
+<h3>2.2. Steps to Improve</h3>
 <ul>
   <li>Need more Days to collect for better plots.</li>
   <li>Need Pagination products (Only 36 Daily Web Scraping).</li>
   <li>Add product name (The Produt Name is Just fit column, but withou 'Fit', Eg: 'slim_fit' => 'slim_jeans' in website)</li>
 </ul>
 
-<h2>3. Deployment</h2>
+<h2>3. Solution Deployment</h2>
+<hr>
 
-<p>The first deployment is a Web App based on Streamlit on Heroku Cloud</p>
+<p>Airflow ETL Pipeline of Webscraping to Dashboard</p>
+
+![airflow](https://user-images.githubusercontent.com/75986085/174494686-62e898ed-15e3-4f1d-baa3-ade7c4ecebc2.png)
+
+<p>The first deployment is a Web App based on Streamlit at Heroku Cloud.</p>
 
 https://user-images.githubusercontent.com/75986085/157462075-529328d1-3b43-4378-9164-47d94e33f5bc.mp4
 
