@@ -4,6 +4,8 @@
 
 <a href='https://github.com/xGabrielR/Star-Jeans-Database/blob/main/notebooks/h%26m_webscraping.ipynb'>Full Documentation PT-BR</a>
 
+
+
 <h2>0. Star Jeans</h2>
 <p>Star Jeans is a fictional company that was used as a case study, where two entrepreneurs named Eduardo and Marcelo are Brazilians and entrepreneurial friends who are starting in the US fashion retail area after several successful businesses. The initial idea is to enter the market with a specific product, which is jeans for the male audience, but even with the well-defined audience, they do not have experience in the fashion retail market, so they hired a data consultancy to answer some questions..</p>
 
@@ -25,31 +27,37 @@
 
 ![market_funnel](https://user-images.githubusercontent.com/75986085/157315368-8861c694-4634-4312-b079-f9489cb28130.jpg)
 
-<h2>1. Solution Strategy</h2>
+<h2>2. Solution Strategy and Results</h2>
 <ul>
-  <li>A database with the Median of competitors' prices by type and color in the next 30 days.</li>
-  <li>This Average will be available in a web application.</li>
+  <li>A database with some data to feed in a dashboard or app by type and color in the next 30 days.</li>
+  <li>This dataset will feed a executable app and a product dashboard with some metrics.</li>
+  <li>Make a ETL pipeline and run it for 30 days to full cloud database.</li>
+  <li>In first week of ETL is possible to see some results.</li>
 </ul>
 
-<p>Solution Steps</p>
+<h3>2.1. First Solution Steps</h3>
 <ol>
   <li>Complete WebScraping of H&M Jeans Website.</li>
   <li>Storing Daily data on Heroku Clound.</li>
   <li>Usind a API to Feed Data from Heroku on Two Apps.</li>
   <li>Streamlit is a Web Based Plataform for Web Apps.</li>
-  <li>Executable TKinter App.</li>
+  <li>Executable TKinter App in windows or linux S.O.</li>
 </ol>
 
-<p>Steps to Improve:</p>
+<h3>2.2. Steps to Improve:</h3>
 <ul>
   <li>Need more Days to collect for better plots.</li>
   <li>Need Pagination products (Only 36 Daily Web Scraping).</li>
   <li>Add product name (The Produt Name is Just fit column, but withou 'Fit', Eg: 'slim_fit' => 'slim_jeans' in website)</li>
 </ul>
 
+<h2>3. Deployment</h2>
+
+<p>The first deployment is a Web App based on Streamlit on Heroku Cloud</p>
+
 https://user-images.githubusercontent.com/75986085/157462075-529328d1-3b43-4378-9164-47d94e33f5bc.mp4
 
-<p>Second Deployment is a executable app :)</p>
+<p>Second Deployment is a simple executable software (app based).</p>
 
 ![img_app](https://user-images.githubusercontent.com/75986085/157460350-7a2ddd17-0428-4c33-950e-8dc4476b1a9d.png)
 
