@@ -1,5 +1,0 @@
-DB_NAME=db656hp5g2mkif
-DB_HOST=ec2-52-203-118-49.compute-1.amazonaws.com
-DB_PASS=6b8ef0ea1417ba153c45e3934bc286407d3f2b424a345c2c0d4632bf3fa18ee7
-DB_USER=nnagymwejtcaht
-DB_PORT=5432
