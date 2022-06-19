@@ -9,6 +9,7 @@
 
 <h2>1. Bussiness Problem</h2>
 <p>Eduardo and Marcelo need awser for this questions.</p>
+<p>they are two entrepreneurs and they want to enter the menswear market but they are having some difficulties related to the start of the venture</p>
 
 > *What is the best selling price for the jeans pants?*
 > 
