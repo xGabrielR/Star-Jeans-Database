@@ -8,7 +8,7 @@
 <hr>
 
 - [0. Star Jeans](#0-star-jeans)
-- [1. Bussiness Problem](#1-bussiness-problem)
+- [1. Business Problem](#1-bussiness-problem)
 - [2. Solution Strategy and Results](#2-solution-strategy-and-results)
   - [2.1. First Solution Steps](#21-first-solution-steps)
   - [2.2. Steps to Improve](#22-steps-to-improve)
@@ -21,7 +21,7 @@
 
 <p>Star Jeans is a fictional company that was used as a case study, where two entrepreneurs named Eduardo and Marcelo are Brazilians and entrepreneurial friends who are starting in the US fashion retail area after several successful businesses. The initial idea is to enter the market with a specific product, which is jeans for the male audience, but even with the well-defined audience, they do not have experience in the fashion retail market, so they hired a data consultancy to answer some questions...</p>
 
-<h2>1. Bussiness Problem</h2>
+<h2>1. Business Problem</h2>
 <p>Eduardo and Marcelo need awser for this questions.</p>
 <p>they are two entrepreneurs and they want to enter the menswear market but they are having some difficulties related to the start of the venture</p>
 
